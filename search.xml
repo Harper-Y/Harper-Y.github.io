@@ -8,15 +8,9 @@
       <link href="/2024/07/05/test/"/>
       <url>/2024/07/05/test/</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<h1 id="GitHub-HEXO生成个人网站（一）——前置安装"><a href="#GitHub-HEXO生成个人网站（一）——前置安装" class="headerlink" title="GitHub+HEXO生成个人网站（一）——前置安装"></a>GitHub+HEXO生成个人网站（一）——前置安装</h1><blockquote><p>前言：基于Windows11系统</p></blockquote><h2 id="1-本地安装"><a href="#1-本地安装" class="headerlink" title="1.本地安装"></a>1.本地安装</h2><ul><li>git ：一个分布式版本管理工具</li></ul><p>​       官网：<a href="http://git-scm.com/downloads">http://git-scm.com/downloads</a>  【可能较慢】</p><p>​       腾讯软件助手：<a href="https://pc.qq.com/detail/13/detail_22693.html【快一些，版本也是新的】">https://pc.qq.com/detail/13/detail_22693.html【快一些，版本也是新的】</a></p><ul><li><p>Node.js :一个开源的、跨平台的 JavaScript 运行时环境</p><p><a href="https://nodejs.cn/download/">下载 | Node.js 中文网 (nodejs.cn)</a></p></li></ul><blockquote><p>这两个无需特殊设置，一路next就可以。C盘不够可以选路径时换位置安装。</p></blockquote><ul><li>验证是否安装成功</li><li></li></ul>]]></content>
       
       
-      
-        <tags>
-            
-            <tag> ���� </tag>
-            
-        </tags>
       
     </entry>
     
